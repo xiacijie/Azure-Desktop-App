@@ -13,7 +13,7 @@ Requirements
 
 How to start
 ------------
-'''
+```
 npm start
-'''
+```
 
